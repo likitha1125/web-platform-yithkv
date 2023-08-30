@@ -1,0 +1,11 @@
+ @import url('https://fonts.googleapis.com/css2?family=Borel&family=Exo+2&family=Gluten&family=Montserrat&family=Open+Sans&family=Poppins&family=Roboto&family=Work+Sans&display=swap');
+p{
+  font-family: 'poppins';
+  font-size: 15px;
+
+}
+#css{
+  font-variant: inherit;
+  font-weight: 900;
+  font-style: italic;
+}
